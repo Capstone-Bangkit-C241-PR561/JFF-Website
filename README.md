@@ -12,7 +12,7 @@ https://jogjafood-finder-yiwte5oumq-et.a.run.app
 4. C731D4KY0862 - Muhammad Aris Efendi - Active
 5. C001D4KY0047 - Muhammad Almal Nafy - Active
 6. A206D4KY3521 - Muh Indrawan Pratama
-7. A014D4KY3688 - Made Widi Arsa Ari Saputra
+7. A014D4KY3688 - I Made Widi Arsa Ari Saputra
 
 # Previews
 
